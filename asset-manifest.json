@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/fluid/static/css/main.423e728d.chunk.css",
+    "main.js": "/fluid/static/js/main.de157304.chunk.js",
+    "main.js.map": "/fluid/static/js/main.de157304.chunk.js.map",
+    "runtime-main.js": "/fluid/static/js/runtime-main.54c34cd1.js",
+    "runtime-main.js.map": "/fluid/static/js/runtime-main.54c34cd1.js.map",
+    "static/css/2.ec7cfabb.chunk.css": "/fluid/static/css/2.ec7cfabb.chunk.css",
+    "static/js/2.7def6baa.chunk.js": "/fluid/static/js/2.7def6baa.chunk.js",
+    "static/js/2.7def6baa.chunk.js.map": "/fluid/static/js/2.7def6baa.chunk.js.map",
+    "index.html": "/fluid/index.html",
+    "static/css/2.ec7cfabb.chunk.css.map": "/fluid/static/css/2.ec7cfabb.chunk.css.map",
+    "static/css/main.423e728d.chunk.css.map": "/fluid/static/css/main.423e728d.chunk.css.map",
+    "static/js/2.7def6baa.chunk.js.LICENSE.txt": "/fluid/static/js/2.7def6baa.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/fluid/static/media/arrow_right.f7c6ac6d.svg",
+    "static/media/all.min.css": "/fluid/static/media/fa-solid-900.eeccf4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54c34cd1.js",
+    "static/css/2.ec7cfabb.chunk.css",
+    "static/js/2.7def6baa.chunk.js",
+    "static/css/main.423e728d.chunk.css",
+    "static/js/main.de157304.chunk.js"
+  ]
+}
